@@ -1,7 +1,7 @@
 # DeepCreamPyLab
 *Decensoring Hentai with Deep Neural Networks on Google Colab.*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shirooo39/waifu2xLab/blob/master/waifu2xLab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shirooo39/DeepCreamPyLab/blob/master/DeepCreamPyLab.ipynb)
 
 A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
 
