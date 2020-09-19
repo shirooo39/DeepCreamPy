@@ -49,4 +49,4 @@ Neural network code is modified from Forty-lock's project [PEPSI](https://github
 
 Training data is modified from gwern's project [Danbooru2017: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset](https://www.gwern.net/Danbooru2017) and other sources.
 
-See [ACKNOWLEDGEMENTS.md](docs/ACKNOWLEDGEMENTS.md) for full license text of these projects.
+See [ACKNOWLEDGEMENTS.md](DCP/docs/ACKNOWLEDGEMENTS.md) for full license text of these projects.
