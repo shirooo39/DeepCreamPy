@@ -31,11 +31,11 @@ It does NOT work with:
 
 Usage:
 * [Decensoring tutorial](DCP/docs/USAGE.md)
-* [Troubleshooting for installing](dDCP/ocs/TROUBLESHOOTING.md)
+* [Troubleshooting for installing](DCP/ocs/TROUBLESHOOTING.md)
 * [Troubleshooting for poor quality decensors](DCP/docs/TROUBLESHOOTING_DECENSORS.md)
 
 Miscellaneous:
-* [FAQ](docs/FAQ.md)
+* [FAQ](DCP/docs/FAQ.md)
 
 Special thanks to deeppomf, style00dollar, ccppoo, IAmTheRedSpy, 0xb8, deniszh, Smethan, harjitmoe, itsVale, StartleStars, and SoftArmpit for their contributions!
 
