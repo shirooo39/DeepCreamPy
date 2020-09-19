@@ -15,14 +15,6 @@ To expand selections in GIMP, do Select > Grow.
 
 Save these images in the PNG format to the "decensor_input" folder. **They MUST be in PNG format.**
 
-### Running the python code
-
-Decensor the images by running
-
-```
-$ python decensor.py
-```
-
 Decensored images will be saved to the "decensor_output" folder. Decensoring takes a few minutes per image.
 
 ## II. Decensoring mosaic censors
@@ -32,14 +24,6 @@ As with decensoring bar censors, perform the same steps of coloring the censored
 In addition, move the original, uncolored images into the "decensor_input_original" folder. Ensure each original image has the same names as their corresponding colored version in the "decensor_input" folder.
 
 For example, if the original image is called "mermaid.jpg," then you want to put this image in the "decensor_input_original" folder and, after you colored the censored regions, name the colored image "mermaid.png" and move it to the "decensor_input" folder.
-
-### Running the python code
-
-Decensor the images by running
-
-```
-$ python decensor.py --is_mosaic 1
-```
 
 Decensored images will be saved to the "decensor_output" folder. Decensoring takes a few minutes per image.
 
