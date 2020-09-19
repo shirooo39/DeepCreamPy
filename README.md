@@ -30,9 +30,9 @@ It does NOT work with:
 - Animated gifs/videos
 
 Usage:
-* [Decensoring tutorial](docs/USAGE.md)
-* [Troubleshooting for installing](docs/TROUBLESHOOTING.md)
-* [Troubleshooting for poor quality decensors](docs/TROUBLESHOOTING_DECENSORS.md)
+* [Decensoring tutorial](DCP/docs/USAGE.md)
+* [Troubleshooting for installing](dDCP/ocs/TROUBLESHOOTING.md)
+* [Troubleshooting for poor quality decensors](DCP/docs/TROUBLESHOOTING_DECENSORS.md)
 
 Miscellaneous:
 * [FAQ](docs/FAQ.md)
