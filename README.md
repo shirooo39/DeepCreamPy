@@ -42,8 +42,6 @@ Miscellaneous:
 - Finish the user interface
 - Add error log
 
-Follow me on Twitter [@deeppomf](https://twitter.com/deeppomf) (NSFW Tweets) for project updates.
-
 Special thanks to deeppomf, style00dollar, ccppoo, IAmTheRedSpy, 0xb8, deniszh, Smethan, harjitmoe, itsVale, StartleStars, and SoftArmpit for their contributions!
 
 ## License
