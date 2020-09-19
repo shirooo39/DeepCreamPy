@@ -37,11 +37,6 @@ Usage:
 Miscellaneous:
 * [FAQ](docs/FAQ.md)
 
-## To do
-- Resolve all Tensorflow compatibility problems
-- Finish the user interface
-- Add error log
-
 Special thanks to deeppomf, style00dollar, ccppoo, IAmTheRedSpy, 0xb8, deniszh, Smethan, harjitmoe, itsVale, StartleStars, and SoftArmpit for their contributions!
 
 ## License
