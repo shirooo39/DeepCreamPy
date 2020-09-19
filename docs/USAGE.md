@@ -33,7 +33,7 @@ In addition, move the original, uncolored images into the "decensor_input_origin
 
 For example, if the original image is called "mermaid.jpg," then you want to put this image in the "decensor_input_original" folder and, after you colored the censored regions, name the colored image "mermaid.png" and move it to the "decensor_input" folder.
 
-### B. Running the python code
+### Running the python code
 
 Decensor the images by running
 
