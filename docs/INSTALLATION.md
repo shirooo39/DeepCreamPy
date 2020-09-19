@@ -1,9 +1,5 @@
 # Installation
 
-## Download Prebuilt Binaries
-You can download the latest release [here](https://github.com/deeppomf/DeepCreamPy/releases/latest) or find all previous releases [here](https://github.com/deeppomf/DeepCreamPy/releases).
-Binary only available for Windows 64-bit.
-
 ## Run Code Yourself
 If you want to run the code yourself, you can clone this repo and download the model from https://drive.google.com/open?id=1IMwzqZUuRnTv5jcuKdvZx-RZweknww5x. Unzip the file into the /models/ folder.
 
